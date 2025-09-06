@@ -1,8 +1,3 @@
-<div align="center">
- <img height="250" src="https://media.giphy.com/media/26xBukhRckv4x5GmI/giphy.gif" width="400">
-</div>
-
-###
 
 <h2 align="center" > Hi, I'm Yati! 
  <img width="50" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" />

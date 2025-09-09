@@ -32,7 +32,7 @@
    Curious about **DSA, Web Development, Machine Learning, and Open Source**.  
  <ul>
  <li>💼 Open to opportunities in **Software Development & ML Projects**</li>
- <li>📫 Contact me at: **yatitiwari0123@gmail.com**</li>
+ <li>📫 Contact me at: **tiwariyati221@gmail.com**</li>
  </ul>
 </p>
 </div>
